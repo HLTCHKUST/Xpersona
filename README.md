@@ -16,3 +16,18 @@ If you use any source codes or datasets included in this toolkit in your work, p
   year={2020}
 }
 </pre>
+
+## Dataset
+<p align="center">
+<img src="plot/dataset.png" width="50%" />
+</p>
+XPersona dataset is an extension of the persona-chat [dataset](https://arxiv.org/pdf/2003.07568.pdf)(https://www.aclweb.org/anthology/P18-1205/).  Specifically, we extend the [ConvAI2](http://convai.io) to other six languages: Chinese, French, Indonesian, Italian, Korean, and Japanese.
+
+## Baselines
+<p align="center">
+<img src="plot/baseline.png" width="50%" />
+</p>
+In this work, we provided multilingual and crosslingual trained baselines. See multilingual and crosslingual folder for more details.
+
+## Acknowledgement
+This repository is implemented base on [**Huggingface**](https://github.com/huggingface/transformers)

@@ -1,0 +1,9 @@
+torch
+pytorch-ignite
+tensorboardX==1.8
+tensorflow
+sentencepiece
+googletrans
+google-cloud-storage
+google-cloud-translate
+mecab-python3
