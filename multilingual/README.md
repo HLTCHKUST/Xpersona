@@ -18,12 +18,12 @@ python evaluate_decoder_only.py --model_checkpoint $checkpoint --max_turns=3 --n
 
 Interact:
 ```bash
-CUDA_VISIBLE_DEVICES=1 python interact_decoder_only.py --model_checkpoint $checkpoint
+python interact_decoder_only.py --model_checkpoint $checkpoint
 ```
 
 Selfplay:
 ```bash
-CUDA_VISIBLE_DEVICES=1 python interact_decoder_only.py --model_checkpoint $checkpoint
+python interact_decoder_only.py --model_checkpoint $checkpoint --self_play
 ```
 
 ## Other Experiments
