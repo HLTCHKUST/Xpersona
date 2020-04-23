@@ -8,6 +8,7 @@ This is the source code of the paper:
 **XPersona: Evaluating Multilingual Personalized Chatbot**. [[PDF]](https://arxiv.org/pdf/2003.07568.pdf)
 
 This code has been written using PyTorch. If you use source codes or datasets included in this toolkit in your work, please cite the following papers:
+
 **XPersona**
 <pre>
 @article{lin2020xpersona,
