@@ -7,3 +7,9 @@ googletrans
 google-cloud-storage
 google-cloud-translate
 mecab-python3
+boto3
+tqdm
+regex
+sacremoses
+translation
+scikit-learn
