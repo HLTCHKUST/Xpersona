@@ -5,17 +5,18 @@
 
 This is the source code of the paper:
 
-**XPersona: Evaluating Multilingual Personalized Chatbot**. [[PDF]](https://arxiv.org/pdf/2003.07568.pdf)
+**XPersona: Evaluating Multilingual Personalized Chatbot**. [[PDF]](https://aclanthology.org/2021.nlp4convai-1.10.pdf)
 
-This code has been written using PyTorch. If you use source codes or datasets included in this toolkit in your work, please cite the following papers:
+The paper has been presented at [NLP4ConvAI at EMNLP 2021 (Honorable Mention Paper)](https://sites.google.com/view/3rdnlp4convai/program?authuser=0). This code has been written using PyTorch. If you use source codes or datasets included in this toolkit in your work, please cite the following papers:
 
 **XPersona**
 <pre>
-@article{lin2020xpersona,
+@inproceedings{lin2021xpersona,
   title={XPersona: Evaluating Multilingual Personalized Chatbot},
   author={Lin, Zhaojiang and Liu, Zihan and Winata, Genta Indra and Cahyawijaya, Samuel and Madotto, Andrea and Bang, Yejin and Ishii, Etsuko and Fung, Pascale},
-  journal={arXiv preprint arXiv:2003.07568},
-  year={2020}
+  booktitle={Proceedings of the 3rd Workshop on Natural Language Processing for Conversational AI},
+  pages={102--112},
+  year={2021}
 }
 </pre>
 
