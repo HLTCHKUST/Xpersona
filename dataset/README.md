@@ -1,8 +1,8 @@
 ## XPersona Dataset
-XPersona dataset is an extension of the persona-chat [dataset](https://www.aclweb.org/anthology/P18-1205/).  Specifically, we extend the [ConvAI2](http://convai.io) to other six languages: Chinese, French, Indonesian, Italian, Korean, and Japanese. Since the test set of ConvAI2 is hidden, we split the original validation set into a new validation set and test sets.
+XPersona dataset is an extension of the persona-chat [dataset](https://www.aclweb.org/anthology/P18-1205/). Specifically, we extend the [ConvAI2](http://convai.io) to other six languages: Chinese, French, Indonesian, Italian, Korean, and Japanese. Since the test set of ConvAI2 is hidden, we split the original validation set into a new validation set and test sets.
 
 ## Dataset Format
-The data is a list of dialogues formated as following:
+The data is a list of dialogues formatted as following:
 ```bash
 data = [dialogue1, dialogue2, dialogue3...]
 ```
